@@ -1,0 +1,26 @@
+{
+  "name": "mynextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "contentful": "^7.14.6",
+    "contentful-cli": "^1.4.17",
+    "next": "9.5.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "@types/node": "^14.0.27",
+    "@types/react": "^16.9.44",
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^1.6.2",
+    "typescript": "^3.9.7"
+  }
+}
